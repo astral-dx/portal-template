@@ -1,0 +1,16 @@
+{
+  "name": "portal-template",
+  "description": "Astral DX Portal Template",
+  "scripts": {
+    "dev": "astral dev",
+    "build": "astral build",
+    "start": "astral start"
+  },
+  "dependencies": {
+    "@astral-dx/core": "latest",
+    "@astral-dx/plugin-auth0": "latest",
+    "@astral-dx/plugin-branding": "latest",
+    "@astral-dx/plugin-references": "latest",
+    "@astral-dx/portal": "latest"
+  }
+}
